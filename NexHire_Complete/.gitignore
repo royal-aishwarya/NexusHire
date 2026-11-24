@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.env
+backend/.env
+backend/instance/
+.pytest_cache/
+
+# Node
+node_modules/
+build/
+frontend/.env
+
+# Runtime data
+*.log
+*.sqlite3
